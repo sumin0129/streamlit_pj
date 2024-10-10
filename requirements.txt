@@ -2,3 +2,4 @@ streamlit
 PIL
 numpy
 scikit-learn
+streamlit_drawable_canvas
